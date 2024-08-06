@@ -1,0 +1,8 @@
+Name
+RISHAB SARAYAN
+
+SRN
+PES2UG22EC109
+
+System
+Ryzen7 Ideapad + WSL
